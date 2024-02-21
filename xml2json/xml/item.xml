@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <nama>Produk 1</nama>
+        <harga>10000</harga>
+        <stok>5</stok>
+    </item>
+    <item>
+        <nama>Produk 2</nama>
+        <harga>15000</harga>
+        <stok>10</stok>
+    </item>
+    <item>
+        <nama>Produk 3</nama>
+        <harga>20000</harga>
+        <stok>8</stok>
+    </item>
+    <item>
+        <nama>Produk 4</nama>
+        <harga>12000</harga>
+        <stok>3</stok>
+    </item>
+    <item>
+        <nama>Produk 5</nama>
+        <harga>18000</harga>
+        <stok>6</stok>
+    </item>
+    <item>
+        <nama>Produk 6</nama>
+        <harga>22000</harga>
+        <stok>7</stok>
+    </item>
+    <item>
+        <nama>Produk 7</nama>
+        <harga>13000</harga>
+        <stok>9</stok>
+    </item>
+    <item>
+        <nama>Produk 8</nama>
+        <harga>25000</harga>
+        <stok>2</stok>
+    </item>
+    <item>
+        <nama>Produk 9</nama>
+        <harga>17000</harga>
+        <stok>4</stok>
+    </item>
+    <item>
+        <nama>Produk 10</nama>
+        <harga>19000</harga>
+        <stok>1</stok>
+    </item>
+</data>
